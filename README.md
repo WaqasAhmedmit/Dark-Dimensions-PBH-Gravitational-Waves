@@ -109,66 +109,7 @@ $$
 
 These conditions characterize the formation-scale hierarchy. They do not independently establish massive KK graviton production.
 
-## Repository Structure
 
-```text
-Dark-Dimensions-PBH-Gravitational-Waves/
-│
-├── README.md
-├── main.tex
-├── Definitions/
-├── figures/
-├── notebooks/
-│   └── Dark_Dimensions_All_Figures.ipynb
-└── data/
-```
-
-## Numerical Calculations
-
-The Jupyter notebook includes calculations and plots for:
-
-1. PBH lifetimes and gravitational-wave frequencies.
-2. Compactification scales and KK-mode multiplicities.
-3. Higher-dimensional black-hole thermodynamics.
-4. Curvature spectra and PBH formation fractions.
-5. Scalar-induced gravitational-wave spectra.
-6. Fisher-matrix forecasts for LISA, DECIGO, and BBO.
-7. Additional KK-threshold and gravitational crossover figures.
-
-All plots use large, bold labels and publication-oriented formatting.
-
-## Installation
-
-Install Python dependencies:
-
-```bash
-pip install numpy scipy matplotlib jupyter ipython
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebooks/Dark_Dimensions_All_Figures.ipynb
-```
-
-Select **Restart & Run All** to reproduce the calculations and figures.
-
-## Compiling the Manuscript
-
-The review uses the official MDPI *Universe* LaTeX template.
-
-To compile in Overleaf:
-
-1. Upload the LaTeX project.
-2. Select `main.tex` as the main document.
-3. Choose `pdfLaTeX`.
-4. Click **Recompile**.
 
 The bibliography is included in the LaTeX manuscript.
 
