@@ -130,15 +130,6 @@ Nuclear Physics B **984** (2022) 115968.
 Physical Review D **112** (2025) 063512.  
 [arXiv:2411.00764](https://arxiv.org/abs/2411.00764)
 
-## Scientific Limitations
-
-The calculations provide illustrative theoretical benchmarks.
-
-- Memory-burden effects are phenomenological assumptions.
-- PBH survival does not guarantee an allowed dark-matter abundance.
-- Standard SIGW calculations assume a specified cosmological background.
-- Full massive-KK tensor production requires additional calculations.
-- Some detector comparisons are illustrative rather than official sensitivity forecasts.
 
 ## Citation
 
